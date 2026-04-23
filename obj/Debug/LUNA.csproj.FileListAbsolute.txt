@@ -1,0 +1,29 @@
+C:\Users\PC\Downloads\danny-main\danny-main\bin\Debug\LUNA.exe.config
+C:\Users\PC\Downloads\danny-main\danny-main\bin\Debug\LUNA.exe
+C:\Users\PC\Downloads\danny-main\danny-main\bin\Debug\LUNA.pdb
+C:\Users\PC\Downloads\danny-main\danny-main\bin\Debug\System.Buffers.dll
+C:\Users\PC\Downloads\danny-main\danny-main\bin\Debug\System.Memory.dll
+C:\Users\PC\Downloads\danny-main\danny-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Downloads\danny-main\danny-main\obj\Debug\LUNA.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\danny-main\danny-main\obj\Debug\LUNA.Form1.resources
+C:\Users\PC\Downloads\danny-main\danny-main\obj\Debug\LUNA.Properties.Resources.resources
+C:\Users\PC\Downloads\danny-main\danny-main\obj\Debug\LUNA.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\danny-main\danny-main\obj\Debug\LUNA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\danny-main\danny-main\obj\Debug\LUNA.csproj.Up2Date
+C:\Users\PC\Downloads\danny-main\danny-main\obj\Debug\LUNA.exe
+C:\Users\PC\Downloads\danny-main\danny-main\obj\Debug\LUNA.pdb
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\bin\Debug\System.Buffers.dll
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\bin\Debug\System.Memory.dll
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\obj\Debug\LUNA.csproj.AssemblyReference.cache
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\obj\Debug\LUNA.Form1.resources
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\obj\Debug\LUNA.Properties.Resources.resources
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\obj\Debug\LUNA.csproj.GenerateResource.cache
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\obj\Debug\LUNA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\obj\Debug\LUNA.csproj.Up2Date
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\obj\Debug\LUNA.About.resources
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\bin\Debug\Danny.exe.config
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\bin\Debug\Danny.exe
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\bin\Debug\Danny.pdb
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\obj\Debug\Danny.exe
+C:\Users\PC\Wix Dropbox\Rhythm Yellow\PC\Documents\danny\danny-main\obj\Debug\Danny.pdb
